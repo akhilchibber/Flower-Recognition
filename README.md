@@ -1,6 +1,6 @@
 # Deep Learning based Flower Recognition
 <p align="center">
-  <img src="https://github.com/akhilchibber/Flower-Recognition/blob/main/Flower-Recognition.png?raw=true" alt="earthml Logo">
+  <img src="https://github.com/akhilchibber/Flower-Recognition/blob/main/Flowers.png?raw=true" alt="earthml Logo">
 </p>
 
 ## Dataset
